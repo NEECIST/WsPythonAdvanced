@@ -1,3 +1,0 @@
-tkcalendar
-Pillow
-requests
